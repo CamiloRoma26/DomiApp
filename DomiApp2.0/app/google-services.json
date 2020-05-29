@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "537319132042",
+    "firebase_url": "https://domiapp2.firebaseio.com",
+    "project_id": "domiapp2",
+    "storage_bucket": "domiapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537319132042:android:cb04be255338ea34575673",
+        "android_client_info": {
+          "package_name": "com.example.camilo.domiapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537319132042-pdvpca4dfcp9no8j7kj623kg6i91ds5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.camilo.domiapp2",
+            "certificate_hash": "44285b4f4cbd205cb629ace9d8516f1d913baa4d"
+          }
+        },
+        {
+          "client_id": "537319132042-4o01blcjeeou7fribs73nj09g5mf0ek8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0f7KnSGl9Ymb-_vCxTfNmudRQRrAuBRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537319132042-4o01blcjeeou7fribs73nj09g5mf0ek8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

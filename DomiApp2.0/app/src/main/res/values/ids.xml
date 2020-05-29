@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sweathers" type="id" />
+    <item name="meatsPlace" type="id" />
+    <item name="BreadPlace" type="id" />
+    <item name="nav_camera" type="id" />
+    <item name="nav_manage" type="id" />
+    <item name="nav_share" type="id" />
+    <item name="nav_send" type="id" />
+    <item name="nav_cart" type="id" />
+    <item name="action_settings" type="id" />
+</resources>
